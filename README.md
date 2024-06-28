@@ -1,6 +1,12 @@
 # Eye on the Asphalt
 
-## Challenge: Sustentabilidade - Incidentes na Via Pública
+## Team Members
+
+- andre (mzsv)
+- david (davidmonteiro03)
+- francisco (Xyckens)
+- heitor (HeitorMP)
+- joao (jtcat)
 
 ### Overview
 
