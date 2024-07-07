@@ -4,7 +4,7 @@
 
 1. [Overview](#overview)
 2. [Problem Statement](#problem-statement)
-3. [The Solution: Eye on the Asphalt](##the-solution)
+3. [The Solution: Eye on the Asphalt](#eye-on-the-asphalt)
 4. [Solution diagram](#solution-diagram)
 5. [Conclusion](#conclusion)
 6. [Team members](#team-members)
