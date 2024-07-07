@@ -55,5 +55,5 @@ Our project, Eye on the Asphalt, represents a significant advancement in using A
 -  The 42 School for facilitating our participation in the hackton.
 -  Google for the opportunity to take part in the Google Cloud Day Lisbon 2024 hackaton, and the award.
 -  Our mentor Joao Catito for the guidance and support.
--  Carris for challenge proposal.
+-  Carris for the challenge proposal.
 ---
